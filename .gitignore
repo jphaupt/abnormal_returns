@@ -7,3 +7,7 @@ output/*.html
 *.egg-info/
 .conda/*
 car_legacy/*
+assets/plots/car.html
+assets/plots/lly_nvax.png
+assets/plots/price_basic.html
+assets/plots/price_events.html
